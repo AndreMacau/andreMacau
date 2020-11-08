@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **AndreMacau/AndreMacau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# André Macáu :computer:
+
+### Olá!! Bem vindo ao meu perfil.
+### Meu nome é André e ...:
+#### Eu gosto muito de aprender
+#### Eu falo um pouco de Inglês e Francês
+#### No momento eu estou estudando Python3, GitHub, Linux e Inglês
+
+[Meu Linkendin](https://www.linkedin.com/in/andre-macau83/)
