@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Olá!! Bem vindo ao meu perfil!
 #### :raising_hand_man: Meu nome é André e ...
 #### :nerd_face: Eu gosto muito de aprender!
-#### :us::fr: Eu falo um pouco de Inglês e Francês!
+#### :us::fr: Meu Inglês é Intermediário/Técnico e falo o meu Francês Básico/Intermediário!
 #### :grinning: No momento eu estou estudando Python3, GitHub, Linux e Inglês!
 #### :man_student: Estou cursando Analise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia!
 #### :raised_hands: Qualquer dica que me ajude a melhorar como Dev, será bem vinda!
