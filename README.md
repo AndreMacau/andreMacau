@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### :raising_hand_man: Meu nome é André e ...
 #### :nerd_face: Eu gosto muito de aprender!
 #### :us::fr: Meu Inglês é Intermediário/Técnico e o meu Francês é Básico/Intermediário!
-#### :grinning: No momento eu estou estudando Python3, GitHub, Linux e Inglês!
+#### :grinning: No momento eu estou estudando .NET, ASP.NET, Python3, GitHub, e Inglês!
 #### :man_student: Estou cursando Analise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia!
 #### :raised_hands: Qualquer dica que me ajude a melhorar como Dev, será bem vinda!
 [Meu Linkendin](https://www.linkedin.com/in/andre-macau83/)
