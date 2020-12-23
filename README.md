@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### Olá!! Bem vindo ao meu perfil!
 #### :raising_hand_man: Meu nome é André e ...
-#### :nerd_face: Eu gosto muito de aprender!
 #### :us::fr: Meu Inglês é Intermediário/Técnico e o meu Francês é Básico. Te
 #### :grinning: No momento eu estou buscando uma oportunidade em Desenvolvimento Web (HTML5, CSS3, JavaScrpit, JQuery, BOOTSTRAP, REACT).
 #### :man_student: Estou cursando Analise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia!
