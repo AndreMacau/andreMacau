@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ## Olá!! Bem vindo ao meu perfil!
 ### Meu nome é André e ...
 ### Meu Inglês é Intermediário/Técnico e o meu Francês é Básico.
-### No momento eu estou buscando uma oportunidade em Desenvolvimento Web (HTML5, CSS3, JavaScrpit, JQuery, BOOTSTRAP, REACT).
 ### Estou cursando Analise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia!
 [Meu Linkendin](https://www.linkedin.com/in/andre-macau83/)
