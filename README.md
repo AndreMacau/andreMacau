@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # André Macáu :computer:
 
 ## Olá!! Bem vindo ao meu perfil!
-### Meu nome é André e ...
-### Meu Inglês é Intermediário/Técnico e o meu Francês é Básico.
-### Estou cursando Analise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia!
+### Meu nome é André e,
+### Sou desenvolvedor Back-End, utilizo .Net 5.0 e ASP.NET Core 5.0.
+### Estou cursando Analise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia e atualmente estou estagiando na Avanade Brasil!
 [Meu Linkendin](https://www.linkedin.com/in/andre-macau83/)
