@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# André Macáu :computer:
+# André Macáu
 
 ## Olá!! Bem vindo ao meu perfil!
 ### Meu nome é André e,
